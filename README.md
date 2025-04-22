@@ -3,7 +3,7 @@
 
 ## Задание 1: Шаблон CPU и RAM
 Задание 1: screenshot Создание шаблона CPU usage и RAM usage:
-![Задание 1](images/задание_1.png)
+![Задание 1](images/Задание_1.png)
 
 ## Задание 2-3: Добавление хостов и привязка шаблонов
 Задание 2: screenshot Configuration - Hosts:
@@ -17,7 +17,7 @@ Screenshot Latest data:
 
 ## Задание 4: Кастомный дашборд
 Задание 4: screenshot dashboard:
-![Задание 4.1](images/Звдание_4.1.png)
+![Задание 4.1](images/Задание_4.1.png)
 
 Screenshot dashboard:
 ![Задание 4.2](images/Задание_4.2.png)
